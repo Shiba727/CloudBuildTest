@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Word</div>
+                <div class="title">CloudBuild</div>
             </div>
         </div>
     </body>
